@@ -1,4 +1,4 @@
-# nodejs
+# Nodejs
 
 Node.js Cookbook for CentOS6.5 and AmazonLinux
 
@@ -11,6 +11,6 @@ Modify Berksfile and `berks install`.
 cookbook "nodejs", git: "https://github.com/takayukii/cookbook-nodejs.git"
 ```
 
-For more detailed option for git, check below
+For more options for git, 
 
 [Git Location - Berkshelf](http://berkshelf.com/#git-location)
